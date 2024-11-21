@@ -71,7 +71,7 @@ Audi envisions further adoption of spatial devices like Apple Vision Pro to rede
 
 ### **Testimonials**  
 > *"Unity and PolySpatial is a game-changer in Apple Vision Pro development. Its seamless integration and fast iteration times simplified development. This was key to successfully delivering an immersive experience with stunning photorealistic visuals."*  
-> **–Lex Dreitser, Lead XR Developer, WHITE LABEL AR **  
+> **–Lex Dreitser, Lead XR Developer, WHITE LABEL AR**  
 
 > *"We deliver CGI-based content to visualize complex technology in real-time applications. With Unity for VisionOS, we found a perfect addition to our existing Unity toolset."*  
 > **– Sebastian Kuhn, Key Account for Audi, SXCES**  
