@@ -1,4 +1,4 @@
-# How I Built an Immersive Experience for the Audi Q6 e-tron on Apple Vision Pro  
+# Building an Immersive Experience for the Audi Q6 e-tron on Apple Vision Pro  
 ![audi4](https://github.com/user-attachments/assets/cb90afa4-ba1c-40cd-aca9-6c171c92d9d9)
 
 ## Audi's Virtual Exhibit XR  
